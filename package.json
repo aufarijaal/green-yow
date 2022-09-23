@@ -1,0 +1,21 @@
+{
+  "name": "green-yow",
+  "displayName": "Green Yow",
+  "description": "Green theme UI with low saturation one dark syntax",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Yow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/green-yow-color-theme.json"
+      }
+    ]
+  }
+}
