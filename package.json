@@ -3,6 +3,7 @@
   "displayName": "Green Yow",
   "description": "Green theme UI with low saturation one dark syntax",
   "version": "0.0.1",
+  "repository": "https://github.com/aufarijaal/green-yow",
   "engines": {
     "vscode": "^1.71.0"
   },
